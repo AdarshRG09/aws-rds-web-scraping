@@ -1,3 +1,6 @@
+whats done here:
+Mission to automate data collection using AWS, Python
+
 ✅ Automated Web Scraping — Your Python script automatically fetches quotes from APIs, eliminating manual data collection.
 
 ✅ Cloud-Based Storage — Instead of storing data locally, you’re using AWS RDS (a managed MySQL database), ensuring scalability and reliability.
