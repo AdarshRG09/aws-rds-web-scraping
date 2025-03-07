@@ -1,0 +1,8 @@
+quotes_db_backup.sql
+full_backup.sql
+__pycache__/
+*.log
+*.pem
+.aws/
+.aws/
+.aws/
